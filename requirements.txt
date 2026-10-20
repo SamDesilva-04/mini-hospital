@@ -1,0 +1,10 @@
+langgraph
+langchain-core
+langchain-groq
+langchain-google-genai
+langchain-openai
+streamlit
+pandas
+python-dotenv
+# optional, only if you later add paid keys:
+# langchain-anthropic

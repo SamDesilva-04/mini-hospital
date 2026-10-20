@@ -1,0 +1,8 @@
+*
+!.gitignore
+!app.py
+!agents.py
+!db.py
+!diet_kb.py
+!patient_portal.py
+!requirements.txt
